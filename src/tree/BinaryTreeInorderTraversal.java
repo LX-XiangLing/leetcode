@@ -33,6 +33,7 @@ public class BinaryTreeInorderTraversal {
         if (root == null) {
             return;
         }
+        //前中后只需调整下面三行代码位置
         dfs(result, root.left);
         result.add(root.val);
         dfs(result, root.right);
