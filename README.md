@@ -9,3 +9,5 @@ UniqueBinarySearchTrees 不同的二叉搜索树
 UniqueBinarySearchTreesII 不同的二叉搜索树II
 
 ValidateBinarySearchTree  验证二叉搜索树
+
+RecoverBinarySearchTree  恢复二叉搜索树
