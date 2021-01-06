@@ -15,3 +15,5 @@ RecoverBinarySearchTree  恢复二叉搜索树
 SymmetricTree  对称二叉树
 
 BinaryTreeLevelOrderTraversal  二叉树的层序遍历
+
+MaximumDepthOfBinaryTree  二叉树的最大深度
