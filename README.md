@@ -17,3 +17,5 @@ SymmetricTree  对称二叉树
 BinaryTreeLevelOrderTraversal  二叉树的层序遍历
 
 MaximumDepthOfBinaryTree  二叉树的最大深度
+
+ConstructBinaryTreeFromPreorderAndInorderTraversal  从前序与中序遍历序列构造二叉树
