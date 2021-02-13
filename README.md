@@ -23,3 +23,5 @@ ConstructBinaryTreeFromPreorderAndInorderTraversal  从前序与中序遍历序�
 FlattenBinaryTreeToLinkedList 二叉树展开为链表
 
 BinaryTreeMaximumPathSum 二叉树中的最大路径和
+
+InvertBinaryTree 翻转二叉树
