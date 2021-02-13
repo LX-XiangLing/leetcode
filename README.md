@@ -19,3 +19,7 @@ BinaryTreeLevelOrderTraversal  二叉树的层序遍历
 MaximumDepthOfBinaryTree  二叉树的最大深度
 
 ConstructBinaryTreeFromPreorderAndInorderTraversal  从前序与中序遍历序列构造二叉树
+
+FlattenBinaryTreeToLinkedList 二叉树展开为链表
+
+BinaryTreeMaximumPathSum 二叉树中的最大路径和
