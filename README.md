@@ -27,3 +27,5 @@ BinaryTreeMaximumPathSum 二叉树中的最大路径和
 InvertBinaryTree 翻转二叉树
 
 LowestCommonAncestorOfBinaryTree 二叉树的最近公共祖先
+
+SerializeAndDeserializeBinaryTree 二叉树的序列化与反序列化
