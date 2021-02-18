@@ -35,3 +35,5 @@ HouseRobberIII 打家劫舍III
 ConvertBSTToGreaterTree 把二叉搜索树转换为累加树
 
 DiameterOfBinaryTree 二叉树的直径
+
+MergeTwoBinaryTrees 合并二叉树
