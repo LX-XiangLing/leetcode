@@ -59,3 +59,7 @@ IntersectionOfTwoLinkedLists 相交链表
 ReverseLinkedList 反转链表
 
 PalindromeLinkedList 回文链表
+
+**Design**
+
+LRUCache LRU缓存机制
