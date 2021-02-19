@@ -63,3 +63,5 @@ PalindromeLinkedList 回文链表
 **Design**
 
 LRUCache LRU缓存机制
+
+LFUCache LFU缓存机制
