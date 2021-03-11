@@ -75,3 +75,5 @@ SelectedSort 选择排序
 InsertionSort 插入排序
 
 ShellSort 希尔排序
+
+MergeSort 归并排序
