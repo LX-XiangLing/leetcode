@@ -69,3 +69,5 @@ LFUCache LFU缓存机制
 **Sort**
 
 BubbleSort 冒泡排序
+
+SelectedSort 插入排序
