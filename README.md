@@ -79,3 +79,15 @@ ShellSort 希尔排序
 MergeSort 归并排序
 
 QuickSort 快速排序
+
+**Singleton**
+
+DCKSingleton 双检锁
+
+enum 枚举
+
+HungrySingleton 饿汉式
+
+LazySingleton 懒汉式(多线程不安全)
+
+StaticInnerSingleton 静态内部类
