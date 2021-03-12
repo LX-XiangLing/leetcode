@@ -91,3 +91,7 @@ HungrySingleton 饿汉式
 LazySingleton 懒汉式(多线程不安全)
 
 StaticInnerSingleton 静态内部类
+
+**lock**
+
+DeadLock 死锁
