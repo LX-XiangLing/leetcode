@@ -94,6 +94,11 @@ LazySingleton 懒汉式(多线程不安全)
 
 StaticInnerSingleton 静态内部类
 
-**lock**
+**Lock**
 
 DeadLock 死锁
+
+
+**Heap**
+
+SmallestK 最小k个数
