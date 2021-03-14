@@ -38,6 +38,8 @@ DiameterOfBinaryTree 二叉树的直径
 
 MergeTwoBinaryTrees 合并二叉树
 
+BinaryTreesThreeOrders 二叉树先序,中序和后序
+
 **LinkedList**
 
 AddTwoNumbers 两数相加
