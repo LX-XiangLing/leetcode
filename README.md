@@ -68,6 +68,8 @@ ReverseLinkedList 反转链表
 
 PalindromeLinkedList 回文链表
 
+ReorderList 重排链表
+
 **Design**
 
 LRUCache LRU缓存机制
