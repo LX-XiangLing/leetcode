@@ -116,3 +116,11 @@ MaxSubArray 连续子数组的最大和
 **DP**
 
 BestTimeToBuyAndSellStock 买卖股票的最佳时机
+
+**Search**
+
+BinarySearch 二分查找(普通)
+
+BinarySearchToLeft 二分查找(左边)
+
+BinarySearchToRight 二分查找(右边)
