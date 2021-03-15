@@ -40,6 +40,8 @@ MergeTwoBinaryTrees 合并二叉树
 
 BinaryTreesThreeOrders 二叉树先序,中序和后序
 
+ZigzagLevelOrder 之字遍历二叉树
+
 **LinkedList**
 
 AddTwoNumbers 两数相加
