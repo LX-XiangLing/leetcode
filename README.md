@@ -44,6 +44,8 @@ ZigzagLevelOrder 之字遍历二叉树
 
 ImageOfBinaryTree 二叉树镜像
 
+BinaryTreeIsBSTOrIsFull   判断二叉树是否为搜索二叉树和完全二叉树
+
 **LinkedList**
 
 AddTwoNumbers 两数相加
