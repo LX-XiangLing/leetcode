@@ -1,7 +1,5 @@
-/**
- * @Author lixiang
- * @Date 2021/3/14
- */
+package Array;
+
 public class JumpFloor {
     public int jumpFloor(int target) {
         if (target == 0 || target == 1) {
