@@ -123,6 +123,8 @@ LengthOfLongestSubstring  最长不含重复字符的子字符串
 
 BestTimeToBuyAndSellStock 买卖股票的最佳时机
 
+MinDistance 编辑距离
+
 **Search**
 
 BinarySearch 二分查找(普通)
