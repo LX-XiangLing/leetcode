@@ -76,6 +76,8 @@ LFUCache LFU缓存机制
 
 LRUCacheII LRU缓存机制II
 
+Sqrt 开根号 有精度
+
 **Sort**
 
 BubbleSort 冒泡排序
@@ -118,6 +120,8 @@ JumpFloor 跳台阶
 MaxSubArray 连续子数组的最大和
 
 LengthOfLongestSubstring  最长不含重复字符的子字符串
+
+FindAllDuplicatesInAnArray 数组中重复的数据
 
 **DP**
 
