@@ -70,6 +70,10 @@ PalindromeLinkedList 回文链表
 
 ReorderList 重排链表
 
+RemoveDuplicatesFromSortedList 删除排序链表中的重复元素(重复的每个元素只保留一个)
+
+RemoveDuplicatesFromSortedListII 删除排序链表中的重复元素 II(重复全不要)
+
 **Design**
 
 LRUCache LRU缓存机制
