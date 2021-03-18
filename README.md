@@ -88,7 +88,7 @@ Sqrt 开根号 有精度
 
 LongestValidParentheses 最长有效括号
 
-1-n 子集
+OneToN 1-n 子集
 
 **Sort**
 
