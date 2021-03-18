@@ -125,6 +125,8 @@ LengthOfLongestSubstring  最长不含重复字符的子字符串
 
 FindAllDuplicatesInAnArray 数组中重复的数据
 
+FindNumberIn2DArray 二维数组中的查找
+
 **DP**
 
 BestTimeToBuyAndSellStock 买卖股票的最佳时机
