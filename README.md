@@ -76,6 +76,8 @@ RemoveDuplicatesFromSortedList 删除排序链表中的重复元素(重复的每
 
 RemoveDuplicatesFromSortedListII 删除排序链表中的重复元素 II(重复全不要)
 
+RotateRightLinkedList 旋转链表
+
 **Design**
 
 LRUCache LRU缓存机制
