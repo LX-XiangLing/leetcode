@@ -46,6 +46,8 @@ ImageOfBinaryTree 二叉树镜像
 
 BinaryTreeIsBSTOrIsFull   判断二叉树是否为搜索二叉树和完全二叉树
 
+BinaryTreeMaxDistance 二叉树节点最大距离
+
 **LinkedList**
 
 AddTwoNumbers 两数相加
@@ -85,6 +87,8 @@ LRUCacheII LRU缓存机制II
 Sqrt 开根号 有精度
 
 LongestValidParentheses 最长有效括号
+
+1-n 子集
 
 **Sort**
 
