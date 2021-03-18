@@ -84,6 +84,8 @@ LRUCacheII LRU缓存机制II
 
 Sqrt 开根号 有精度
 
+LongestValidParentheses 最长有效括号
+
 **Sort**
 
 BubbleSort 冒泡排序
