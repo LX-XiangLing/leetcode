@@ -92,6 +92,8 @@ LongestValidParentheses 最长有效括号
 
 OneToN 1-n 子集
 
+MinNum 最少平方
+
 **Sort**
 
 BubbleSort 冒泡排序
