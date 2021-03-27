@@ -151,6 +151,8 @@ MinDistance 编辑距离
 
 LengthOfLIS 最长上升子序列
 
+NthUglyNumber 丑数
+
 **Search**
 
 BinarySearch 二分查找(普通)
