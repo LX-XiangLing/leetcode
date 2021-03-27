@@ -153,6 +153,8 @@ LengthOfLIS 最长上升子序列
 
 NthUglyNumber 丑数
 
+N-Queens 
+
 **Search**
 
 BinarySearch 二分查找(普通)
