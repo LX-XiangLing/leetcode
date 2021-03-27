@@ -158,3 +158,14 @@ BinarySearch 二分查找(普通)
 BinarySearchToLeft 二分查找(左边)
 
 BinarySearchToRight 二分查找(右边)
+
+**DFS**
+MaxAreaOfIsland 岛屿最大面积
+
+NumberOfIslands 岛屿数量
+
+IslandPerimeter 岛屿周长
+
+NumberOfClosedIslands 统计封闭岛屿的数目
+
+MakingALargeIsland 最大人工岛
