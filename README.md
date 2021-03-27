@@ -143,6 +143,8 @@ FindNumberIn2DArray 二维数组中的查找
 
 MergeSortedArray 合并两个有序数组
 
+FindRepeatNumber 数组中重复数字
+
 **DP**
 
 BestTimeToBuyAndSellStock 买卖股票的最佳时机
@@ -153,7 +155,7 @@ LengthOfLIS 最长上升子序列
 
 NthUglyNumber 丑数
 
-N-Queens 
+N-Queens N皇后
 
 **Search**
 
