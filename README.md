@@ -149,6 +149,8 @@ SortArrayByParityII 按奇偶排序数组 II
 
 ContainsDuplicate 存在重复元素
 
+ThreePointsArray 均三分数组
+
 **DP**
 
 BestTimeToBuyAndSellStock 买卖股票的最佳时机
