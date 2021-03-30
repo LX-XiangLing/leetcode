@@ -147,6 +147,8 @@ FindRepeatNumber 数组中重复数字
 
 SortArrayByParityII 按奇偶排序数组 II
 
+ContainsDuplicate 存在重复元素
+
 **DP**
 
 BestTimeToBuyAndSellStock 买卖股票的最佳时机
