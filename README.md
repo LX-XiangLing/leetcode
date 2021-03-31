@@ -48,6 +48,8 @@ BinaryTreeIsBSTOrIsFull   判断二叉树是否为搜索二叉树和完全二叉
 
 BinaryTreeMaxDistance 二叉树节点最大距离
 
+MostFrequentSubtreeSum 出现次数最多的子树元素和
+
 **LinkedList**
 
 AddTwoNumbers 两数相加
