@@ -80,6 +80,8 @@ RemoveDuplicatesFromSortedListII 删除排序链表中的重复元素 II(重复�
 
 RotateRightLinkedList 旋转链表
 
+CopyRandomList 复制链表
+
 **Design**
 
 LRUCache LRU缓存机制
