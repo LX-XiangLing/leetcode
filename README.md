@@ -98,6 +98,8 @@ OneToN 1-n 子集
 
 MinNum 最少平方
 
+NumSquares 完全平方数
+
 **Sort**
 
 BubbleSort 冒泡排序
